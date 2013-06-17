@@ -10,6 +10,7 @@ projects[features][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[rules][subdir] = contrib
+projects[scheduler][subdir] = contrib
 projects[strongarm][subdir] = contrib
 projects[token][subdir] = contrib
 projects[views][subdir] = contrib

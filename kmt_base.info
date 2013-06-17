@@ -12,8 +12,16 @@ dependencies[] = features
 dependencies[] = module_filter
 dependencies[] = pathauto
 dependencies[] = rules
+dependencies[] = scheduler
 dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_bulk_operations
 features[features_api][] = api:1
+
+
+; Information added by drush on 2013-06-16
+version = "unknown"
+project = "kmt_base"
+datestamp = "1371413053"
+
