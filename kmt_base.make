@@ -7,6 +7,7 @@ projects[ctools][subdir] = contrib
 projects[email][subdir] = contrib
 projects[entity][subdir] = contrib
 projects[features][subdir] = contrib
+projects[fences][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[rules][subdir] = contrib
